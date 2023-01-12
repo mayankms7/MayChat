@@ -1,2 +1,2 @@
 # MayChat
-# MayChat
+A direct communication application.
